@@ -14,3 +14,5 @@ It is up to YOU to ensure your server is set up appropriately and securely for Y
 
 I have made a good faith effort to ensure sensible choices are made, but understand that this tutorial is just an example of things to change in Apache after installation. You may need to make different changes, and/or further changes beyond those listed in this tutorial to achieve your desired security profile.
 
+## Start the tutorial
+You can start the tutorial at this repo's wiki at https://github.com/verachell/Tutorial-hardening-your-apache-server/wiki 
