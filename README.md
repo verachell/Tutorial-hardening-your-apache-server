@@ -6,9 +6,11 @@ This tutorial follows on from https://github.com/verachell/tutorial-setup-linux-
 Please read this README file completely before moving on to the tutorial (in this repo's Wiki - link below)
 
 ## These settings are not suitable for every application
-In particular, some of the settings in this tutorial will NOT work with Rails. Also, what constitutes a suitable level of security for your application is up to you. These settings are my defaults for many of the applications I use, but as the license says, I am not responsible for any damages, security breaches, etc from any security holes in the setup in this tutorial. 
+These settings are my defaults for many of the applications I use, but they won't be suitable for every application. In particular, some of the settings in this tutorial will NOT work with Rails. 
+
+What constitutes a suitable level of security for your application is up to you. As the license says, I am not responsible for any damages, security breaches, etc from any security holes in the setup in this tutorial. 
 
 It is up to YOU to ensure your server is set up appropriately and securely for YOUR purpose.
 
-I have made a good faith effort to ensure sensible choices are made, but understand that this tutorial is just a starting point. The suggested security measures here may not be appropriate for your application.
+I have made a good faith effort to ensure sensible choices are made, but understand that this tutorial is just an example of things to change in Apache after installation. You may need to make different changes, and/or further changes beyond those listed in this tutorial to achieve your desired security profile.
 
