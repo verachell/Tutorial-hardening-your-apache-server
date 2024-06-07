@@ -1,7 +1,7 @@
 # Tutorial-hardening-your-apache-server
 A step by step tutorial of some changes to make to the default Apache installation on a Linux VPS server. For beginners
 
-This tutorial follows on from https://github.com/verachell/tutorial-setup-linux-VPS-server-with-apache and assumes you have completed the steps in that tutorial. At this point, you should have a VPS server with Apache installed, SSL certificates installed, and the Webmin control panel installed. If you don't have Webmin you can do these steps from the command line, editing files directly, but that part is up to you. The tutorial here makes as much use of Webmin as possible.
+This tutorial follows on from https://github.com/verachell/tutorial-setup-linux-VPS-server-with-apache and assumes you have completed the steps in that tutorial. At this point, you should have a VPS server with Apache installed, SSL certificates installed, and the Webmin control panel installed. If you don't have Webmin you can do the steps in this tutorial from the command line, editing configuration files directly, but that part is up to you. The tutorial here makes as much use of Webmin as possible.
 
 Please read this README file completely before moving on to the tutorial (in this repo's Wiki - link below)
 
